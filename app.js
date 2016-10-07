@@ -4,7 +4,7 @@ var species = {
     fish   : "fish.jpg"
 };
 
-	
+
 
 
 
@@ -18,5 +18,5 @@ function main(){
         console.log(animal);
         $("#holder").html("<img src=img/"+ animal+"></img>");
     });
-  
+    
 }
